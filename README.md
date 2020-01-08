@@ -8,6 +8,7 @@
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/)).
 * Experiência com Jquery.
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
+* Experiência com Slim Framework (em projetos pessoais não publicados).
 * Experiência com MySQL.
 * Experiência em projetos de pequeno e médio porte.
 
