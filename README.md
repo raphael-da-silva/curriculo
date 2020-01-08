@@ -11,6 +11,11 @@
 * Experiência com MySQL.
 * Experiência em projetos de pequeno e médio porte.
 
+### Aptidões
+
+* Maior afinidade com PHP e back-end.
+* Maior afinidade com a orientação a objetos.
+
 ### Orientação a objetos
 
 * Conhecimento dos conceitos básicos da orientação a objetos.
