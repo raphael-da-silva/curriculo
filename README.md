@@ -1,6 +1,8 @@
 # Currículo
 
-### Resumo de experiências.
+Resumo de experiências e conhecimentos.
+
+### Experiências.
 
 * Experiência com PHP.
 * Experiência com Javascript.
@@ -29,3 +31,7 @@
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
+
+### Objetivo
+
+Trabalhar com back-end e PHP usando boas práticas com pessoas que possam me ensinar a consolidar isso ainda mais.
