@@ -25,6 +25,7 @@
 
 ### Ferramentas
 
-* Uso do Composer.
-* Uso do terminal no Windows 10 (instalado via git).
-* Uso do Sublime Text 3.
+* Composer.
+* Terminal no Windows 10 (instalado via git).
+* Sublime Text 3.
+* Firefox.
