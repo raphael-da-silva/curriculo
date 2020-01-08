@@ -5,6 +5,7 @@
 * Experiência com PHP.
 * Experiência com Javascript.
 * Experiência com CSS.
+* Experiência com Markdown (escrevendo gists e um (blog)[http://raphael-da-silva.github.io/]).
 * Experiência com Jquery.
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
 * Experiência com MySQL.
