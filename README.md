@@ -35,3 +35,7 @@ Resumo de experiências e conhecimentos.
 ### Objetivo
 
 Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
+
+### Projetos pessoais
+
+* [Blog de programação](raphael-da-silva.github.io)
