@@ -2,6 +2,10 @@
 
 Resumo de experiências e conhecimentos.
 
+### Objetivo
+
+Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
+
 ### Experiências.
 
 * Experiência com PHP.
@@ -31,10 +35,6 @@ Resumo de experiências e conhecimentos.
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
-
-### Objetivo
-
-Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
 
 ### Projetos pessoais
 
