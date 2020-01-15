@@ -37,6 +37,11 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
+### Comunicação
+
+* Gosto de escrever.
+* Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
+
 ### Projetos pessoais
 
 * [Blog de programação](http://raphael-da-silva.github.io)
