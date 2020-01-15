@@ -37,6 +37,10 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
+### Certificações
+
+* [Certificação Imasters - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
+
 ### Comunicação
 
 * Gosto de escrever.
