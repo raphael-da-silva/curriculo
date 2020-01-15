@@ -31,10 +31,11 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Ferramentas
 
-* Composer.
+* Composer (gerenciador de dependências do PHP).
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
+* Laragon (como alternativa ao Xampp).
 
 ### Projetos pessoais
 
