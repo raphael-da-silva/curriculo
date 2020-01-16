@@ -8,16 +8,19 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Experiências.
 
+* Experiência em projetos de pequeno e médio porte (sites e sistemas).
 * Experiência com PHP.
 * Experiência com Javascript.
 * Experiência com CSS.
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/)).
 * Experiência com Jquery.
+* Experiência com MySQL.
+* Experiência com o padrão MVC (sem usar os frameworks conhecidos do mercado).
+
+### Experiências em projetos pessoais
+
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
 * Experiência com Slim Framework (em projetos pessoais não publicados).
-* Experiência com MySQL.
-* Experiência em projetos de pequeno e médio porte (sites e sistemas).
-* Experiência com o padrão MVC (sem usar os frameworks conhecidos do mercado).
 
 ### Aptidões
 
