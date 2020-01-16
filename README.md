@@ -50,6 +50,6 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Gosto de escrever.
 * Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
 
-### Projetos pessoais
+### Projetos para compartilhamento de conhecimento
 
 * [Blog de programação](http://raphael-da-silva.github.io)
