@@ -17,6 +17,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Experiência com Slim Framework (em projetos pessoais não publicados).
 * Experiência com MySQL.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
+* Experiência com o padrão MVC (sem usar os frameworks conhecidos do mercado).
 
 ### Aptidões
 
