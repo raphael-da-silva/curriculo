@@ -12,7 +12,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Experiência com PHP.
 * Experiência com Javascript.
 * Experiência com CSS.
-* Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/)).
+* Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
 * Experiência com Jquery.
 * Experiência com MySQL.
 * Experiência com o padrão MVC (sem usar os frameworks conhecidos do mercado).
