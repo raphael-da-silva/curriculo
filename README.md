@@ -6,7 +6,7 @@ Resumo de experiências e conhecimentos.
 
 Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
 
-### Experiências.
+### Experiências
 
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 * Experiência com PHP.
