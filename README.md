@@ -6,8 +6,14 @@ Resumo de experiências e conhecimentos.
 
 Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
 
+### Cursos
+
+* Técnico em Informática para internet (duração de 2 anos).
+* Aprendizagem Industrial de programador de computador (duração de 1 ano).
+
 ### Experiências
 
+* Início na área em 2012.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 * Experiência com PHP.
 * Experiência com Javascript.
