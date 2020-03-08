@@ -8,10 +8,18 @@ Programador que trabalha com desenvolvimento web desde 2012 criando projetos de 
 
 Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais.
 
+***
+
 ### Cursos
 
 * Técnico em Informática para internet (duração de 2 anos).
 * Aprendizagem Industrial de programador de computador (duração de 1 ano).
+
+### Certificações
+
+* [Certificação Imasters - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
+
+***
 
 ### Experiências
 
@@ -30,6 +38,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
 * Experiência com Slim Framework (em projetos pessoais não publicados).
 
+***
+
 ### Aptidões
 
 * Maior afinidade com PHP e back-end.
@@ -40,6 +50,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Conhecimento do conceito de interface.
 * Conhecimento do conceito de injeção de dependência.
 
+***
+
 ### Ferramentas
 
 * Composer (gerenciador de dependências do PHP).
@@ -48,9 +60,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
-### Certificações
-
-* [Certificação Imasters - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
+***
 
 ### Comunicação
 
