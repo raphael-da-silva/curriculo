@@ -63,7 +63,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-## Ferramentas, comuninação e projetos pessoais
+## Ferramentas, comunicação e projetos pessoais
 
 ### Ferramentas
 
@@ -75,9 +75,9 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-### Comunicação
+### Comunicação e estudo
 
-* Gosto de escrever.
+* Gosto de escrever (para estudar e fixar o conhecimento).
 * Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
 
 ### Projetos para compartilhamento de conhecimento
