@@ -63,6 +63,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
+## Ferramentas, comuninação e projetos pessoais
+
 ### Ferramentas
 
 * Composer (gerenciador de dependências do PHP).
