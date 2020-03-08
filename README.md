@@ -63,15 +63,26 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-## Ferramentas, comunicação e projetos pessoais
+## Ferramentas e práticas
 
-### Ferramentas
+### Ferramentas de desenvolvimento
 
 * Composer (gerenciador de dependências do PHP).
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
 * Laragon (como alternativa ao Xampp).
+
+### Práticas no código
+
+* Injeção de dependência com interfaces no PHP.
+* Separação do código em partes (classes, arquivos e etc) menores.
+* Busca de nomes mais legíveis que deixem o objeto do código mais nítido.
+* Uso do padrão Revealing Module Pattern no Javascript.
+
+***
+
+## Estudos e comunicação
 
 ### Comunicação e estudo
 
