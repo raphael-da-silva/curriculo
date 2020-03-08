@@ -24,7 +24,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * [Certificação Imasters - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
 
 ***
-## Experiências
+## Experiência
 
 ### Atuação
 
