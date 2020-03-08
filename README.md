@@ -47,7 +47,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-## Aptidões
+## Assuntos de maior interesse
 
 ### Afinidades
 
