@@ -31,7 +31,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Início na área em 2012.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
-### Tecnologias
+### Linguagens e conceitos
 * Experiência com PHP.
 * Experiência com Javascript.
 * Experiência com CSS.
