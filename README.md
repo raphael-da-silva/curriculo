@@ -35,9 +35,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Orientação a objetos
 
-* Conhecimento dos conceitos básicos da orientação a objetos.
-* Conhecimento de conceitos de interface e injeção de dependência.
-* Conhecimento dos princípios S, I e D do principios S.O.L.I.D da orientação a objetos.
+* Conhecimento do conceito de interface.
+* Conhecimento do conceito de injeção de dependência.
 
 ### Ferramentas
 
