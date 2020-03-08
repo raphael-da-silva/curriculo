@@ -73,8 +73,6 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
-***
-
 ### Comunicação e estudo
 
 * Gosto de escrever (para estudar e fixar o conhecimento).
