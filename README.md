@@ -12,6 +12,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
+## Ensino
+
 ### Cursos
 
 * Técnico em Informática para internet (duração de 2 anos).
@@ -22,11 +24,14 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * [Certificação Imasters - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
 
 ***
+## Experiências
 
-### Experiências
+### Atuação
 
 * Início na área em 2012.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
+
+### Tecnologias
 * Experiência com PHP.
 * Experiência com Javascript.
 * Experiência com CSS.
@@ -42,7 +47,9 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-### Aptidões
+## Aptidões
+
+### Afinidades
 
 * Maior afinidade com PHP e back-end.
 * Maior afinidade com orientação a objetos.
