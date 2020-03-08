@@ -1,6 +1,8 @@
 # Currículo
 
-### Resumo profissional
+## Resumo profissional
+
+### Área de atuação
 
 Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
 
