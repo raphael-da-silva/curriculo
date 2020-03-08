@@ -53,8 +53,9 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 * Maior afinidade com PHP e back-end.
 * Maior afinidade com orientação a objetos.
+* Maior tempo de estudo em PHP e orientação a objetos
 
-### Orientação a objetos
+### Conceitos da Orientação a objetos
 
 * Conhecimento do conceito de interface.
 * Conhecimento do conceito de injeção de dependência.
