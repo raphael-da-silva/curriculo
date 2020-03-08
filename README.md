@@ -73,7 +73,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
-### Práticas no código
+### Práticas no código-fonte
 
 * Injeção de dependência com interfaces no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores.
