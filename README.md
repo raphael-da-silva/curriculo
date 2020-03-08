@@ -1,6 +1,8 @@
 # Currículo
 
-Resumo de experiências e conhecimentos.
+### Resumo profissional
+
+Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
 
 ### Objetivo
 
