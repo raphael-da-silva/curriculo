@@ -1,4 +1,4 @@
-# Currículo
+# Resumo de experiências e conhecimentos (a.k.a currículo)
 
 ## Resumo profissional
 
