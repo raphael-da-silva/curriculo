@@ -78,7 +78,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com interfaces no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores.
 * Busca de nomes mais legíveis que deixem o objetivo do código mais nítido.
-* Uso do padrão Revealing Module Pattern no Javascript.
+* Uso do padrão Revealing Module Pattern no Javascript (encapsulando do código em [IIFE](https://raphael-da-silva.github.io/iife-js/)).
 
 ***
 
