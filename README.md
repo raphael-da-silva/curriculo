@@ -89,7 +89,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Gosto de escrever (para estudar e fixar o conhecimento).
 * Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
 
-### Projetos para compartilhamento de conhecimento
+### Projetos pessoais
 
-* [Blog de programação (para fixar conhecimento e compartilhá-lo](http://raphael-da-silva.github.io)
+* [Blog de programação (para fixar conhecimento e compartilhá-lo)](http://raphael-da-silva.github.io)
 * [Projeto "Cuidar da Mente" (para reunir informações sobre saúde mental)](https://github.com/cuidar-da-mente)
