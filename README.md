@@ -92,4 +92,4 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 ### Projetos pessoais
 
 * [Blog de programação (para fixar conhecimento e compartilhá-lo)](http://raphael-da-silva.github.io)
-* [Projeto para reunir informações sobre saúde mental](https://github.com/cuidar-da-mente)
+* [Projeto para reunir informações sobre saúde mental](https://github.com/programador-cansado)
