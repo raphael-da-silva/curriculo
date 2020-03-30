@@ -8,7 +8,7 @@ Programador que trabalha com desenvolvimento web desde 2012 criando projetos de 
 
 ### Objetivo
 
-Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais através de uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md).
+Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais através de uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) para [evitar esgotamento mental](https://programador-cansado.github.io/).
 
 ***
 
