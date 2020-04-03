@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Gosto de escrever código e escrever alguns posts em um blog hospedado no Github, vejo a escrita como uma forma de complemento para o que é aprendido no código-fonte. É difícil encontrar vagas para programador PHP na cidade onde eu moro, estudo PHP desde 2012 quando iniciei na área. O meu objetivo é [trabalhar com back-end](https://raphael-da-silva.github.io/back-end/) e orientação a objetos, pois são as áreas com que tenho mais afinidade. 
+Gosto de escrever código e [escrever alguns posts em um blog hospedado no Github](http://raphael-da-silva.github.io/), vejo a escrita como uma forma de complemento para o que é aprendido no código-fonte. É difícil encontrar vagas para programador PHP na cidade onde eu moro, estudo PHP desde 2012 quando iniciei na área. O meu objetivo é [trabalhar com back-end](https://raphael-da-silva.github.io/back-end/) e orientação a objetos, pois são as áreas com que tenho mais afinidade. 
 
 Além disso, gostaria de poder trabalhar com boas práticas em uma empresa que me possibilitasse aprender mais e consolidar isso. Apesar de ter experiência desde 2012, ainda não tive uma experiência com uma equipe grande e com boas práticas, por isso eu estou disposto a começar como junior dentro de uma equipe que me possibilite evoluir na carreira.
 
