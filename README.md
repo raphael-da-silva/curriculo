@@ -6,6 +6,15 @@
 
 Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
 
+### Apresentação
+
+Gosto de escrever código e escrever alguns posts em um blog hospedado no Github, vejo a escrita como uma forma de complemento para o que é aprendido no código-fonte. É difícil encontrar vagas para programador PHP na cidade onde eu moro, estudo PHP desde 2012 quando iniciei na área. O meu objetivo é trabalhar com back-end e orientação a objetos, pois são as áreas com que tenho mais afinidade. 
+
+Além disso, gostaria de poder trabalhar com boas práticas em uma empresa que me possibilitasse aprender mais e consolidar isso. Apesar de ter experiência desde 2012, ainda não tive uma experiência com uma equipe grande e com boas práticas, por isso eu estou disposto a começar como junior dentro de uma equipe que me possibilite evoluir na carreira.
+
+Como não consegui ter muitas experiências na minha cidade, passei a estudar de maneira autoditada com projetos pessoais feitos
+para eu aplicar os conceitos que estudei na prática, principalmente focado no paradigma da orientação a objetos.
+
 ### Objetivo
 
 Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me ensinar a consolidar isso ainda mais através de uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) para [evitar esgotamento mental](https://programador-cansado.github.io/).
