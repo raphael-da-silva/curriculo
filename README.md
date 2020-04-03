@@ -1,12 +1,6 @@
 # Resumo de experiências e conhecimentos (a.k.a currículo)
 
-## Resumo profissional
-
-### Área de atuação
-
-Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
-
-### Apresentação
+## Apresentação
 
 Gosto de escrever código e escrever alguns posts em um blog hospedado no Github, vejo a escrita como uma forma de complemento para o que é aprendido no código-fonte. É difícil encontrar vagas para programador PHP na cidade onde eu moro, estudo PHP desde 2012 quando iniciei na área. O meu objetivo é trabalhar com back-end e orientação a objetos, pois são as áreas com que tenho mais afinidade. 
 
@@ -14,6 +8,12 @@ Além disso, gostaria de poder trabalhar com boas práticas em uma empresa que m
 
 Como não consegui ter muitas experiências na minha cidade, passei a estudar de maneira autoditada com projetos pessoais feitos
 para eu aplicar os conceitos que estudei na prática, principalmente focado no paradigma da orientação a objetos.
+
+## Resumo profissional
+
+### Área de atuação
+
+Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
 
 ### Objetivo
 
