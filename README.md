@@ -7,7 +7,7 @@ Gosto de escrever código e escrever alguns posts em um blog hospedado no Github
 Além disso, gostaria de poder trabalhar com boas práticas em uma empresa que me possibilitasse aprender mais e consolidar isso. Apesar de ter experiência desde 2012, ainda não tive uma experiência com uma equipe grande e com boas práticas, por isso eu estou disposto a começar como junior dentro de uma equipe que me possibilite evoluir na carreira.
 
 Como não consegui ter muitas experiências na minha cidade, passei a estudar de maneira autoditada com projetos pessoais feitos
-para eu aplicar os conceitos que estudei na prática, principalmente focado no paradigma da orientação a objetos.
+para eu aplicar os conceitos que estudei na prática, principalmente focado no paradigma da orientação a objetos em conceitos que gosto como inferfaces e injeção de dependência.
 
 ## Resumo profissional
 
