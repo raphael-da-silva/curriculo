@@ -58,7 +58,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 ### Conceitos da Orientação a objetos
 
 * Conhecimento do conceito de abstração.
-* Conhecimento do conceito de interface.
+* Conhecimento do conceito de [interface](https://raphael-da-silva.github.io/marker-interfaces/).
 * Conhecimento do conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
 
 ***
