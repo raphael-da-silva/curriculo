@@ -51,7 +51,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Experiência com o padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/) (sem usar os frameworks conhecidos do mercado).
 * Experiência com o Revealing Module Pattern no JavaScript.
 
-### Experiências em projetos pessoais
+### Experiências em projetos pessoais (estudo autodidata)
 
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
