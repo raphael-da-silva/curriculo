@@ -28,8 +28,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Certificações
 
-* [Certificação Imasters - PHP - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
-* [Certificação Imasters - JavaScript - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
+* [Imasters - PHP - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
+* [Imasters - JavaScript - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
 
 ***
 ## Experiência
