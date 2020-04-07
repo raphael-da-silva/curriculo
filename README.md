@@ -62,11 +62,11 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Maior afinidade com orientação a objetos.
 * Maior tempo de estudo em PHP e orientação a objetos.
 
-### Conceitos da Orientação a objetos
+### Conceitos da Orientação a Objetos que são o meu foco
 
-* Conhecimento do conceito de abstração.
-* Conhecimento do conceito de [interface](https://raphael-da-silva.github.io/contando-historia/).
-* Conhecimento do conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
+* Conceito de abstração.
+* Conceito de [interface](https://raphael-da-silva.github.io/contando-historia/).
+* Conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
 
 ***
 
@@ -80,7 +80,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Firefox.
 * Laragon (como alternativa ao Xampp).
 
-### Práticas no código-fonte
+### As minhas práticas no código-fonte
 
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com interfaces no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores (maior granularidade).
