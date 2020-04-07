@@ -63,7 +63,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Afinidades
 
-* Maior afinidade com PHP e back-end.
+* Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
 * Maior afinidade com Orientação a Objetos.
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
 
@@ -98,7 +98,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Comunicação e estudo
 
-* Gosto de escrever (para estudar e fixar o conhecimento).
+* Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
 
 ### Projetos pessoais
