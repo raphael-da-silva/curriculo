@@ -77,7 +77,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ***
 
-## Ferramentas e práticas
+## Ferramentas e práticas usadas
 
 ### Ferramentas de desenvolvimento
 
