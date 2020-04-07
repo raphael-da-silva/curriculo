@@ -49,7 +49,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Experiência com Jquery.
 * Experiência com MySQL.
 
-### Experiências com padrões
+### Experiências com padrões de separação de código
 * Experiência com o padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/) (sem usar os frameworks conhecidos do mercado).
 * Experiência com o Revealing Module Pattern no JavaScript.
 
