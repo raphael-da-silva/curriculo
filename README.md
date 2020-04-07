@@ -38,13 +38,18 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Início na área em 2012.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
-### Linguagens e conceitos
+### Linguagens
 * Experiência com PHP.
-* Experiência com Javascript.
-* Experiência com CSS.
+* Experiência com JavaScript.
+* Experiência com HTML e CSS.
+
+### Ferramentas e bibliotecas
 * Experiência com Jquery.
 * Experiência com MySQL.
+
+### Experiências com padrões
 * Experiência com o padrão MVC (sem usar os frameworks conhecidos do mercado).
+* Experiência com o Revealing Module Pattern no JavaScript.
 
 ### Experiências em projetos pessoais
 
@@ -59,8 +64,8 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 ### Afinidades
 
 * Maior afinidade com PHP e back-end.
-* Maior afinidade com orientação a objetos.
-* Maior tempo de estudo em PHP e orientação a objetos.
+* Maior afinidade com Orientação a Objetos.
+* Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
 
 ### Conceitos da Orientação a Objetos que são o meu foco
 
