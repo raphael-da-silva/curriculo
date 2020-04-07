@@ -89,6 +89,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### As minhas práticas no código-fonte
 
+* Procuro ter uma [postura que não leve ao esgotamento mental](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com interfaces no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores (maior granularidade).
 * Busca de nomes mais legíveis que deixem o propósito do código mais nítido.
