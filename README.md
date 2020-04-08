@@ -102,7 +102,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 ### Comunicação e estudo
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
-* Consigo me virar para ler artigos técnicos em inglês (não falo e não escrevo nessa língua).
+* Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
 ### Projetos pessoais
 
