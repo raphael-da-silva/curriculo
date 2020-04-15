@@ -72,7 +72,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 ### Conceitos da Orientação a Objetos que são o meu foco
 
 * Conceito de abstração.
-* Conceito de [interface](https://raphael-da-silva.github.io/namorando-com-interfaces/).
+* Conceito de [interface](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/).
 * Conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
 
 ***
