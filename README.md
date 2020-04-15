@@ -37,7 +37,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Atuação
 
-* Início na área em 2012.
+* Início na área em 2012 (através de um estágio).
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
 ### Linguagens
