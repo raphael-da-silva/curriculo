@@ -42,11 +42,11 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 
 ### Experiência profissional
 
-**Programador web** \
+**2017 - Programador web** \
 Atividades: desenvolvimento dedicado de sistema web fazendo uso do padrão MVC e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 
-**Programador web** \
-Atividades: criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos.
+**2012-2014 - Programador web** \
+Atividades: criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário.
 
 ## Experiência com tecnologias
 
