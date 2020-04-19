@@ -56,11 +56,11 @@ Atividades: criação de sites estáticos, sites dinâmicos com painéis adminis
 * Experiência com HTML e CSS.
 * Experiência com SQL (usando MySQL).
 
-### Experiências com padrões de separação de código
+### Padrões de separação de código
 * Experiência com o padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/) (sem usar os frameworks conhecidos do mercado).
 * Experiência com o Revealing Module Pattern no JavaScript.
 
-### Experiências em projetos pessoais (estudo autodidata)
+### Projetos pessoais (para estudo autodidata)
 
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
 * Experiência com bootstrap (em dois projetos pessoais não publicados).
