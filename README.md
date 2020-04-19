@@ -11,7 +11,7 @@ para eu aplicar os conceitos que estudei na prática, principalmente focado no p
 
 ### Área de atuação
 
-Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte.
+Programador que trabalha com desenvolvimento web desde 2012 criando projetos de pequeno e médio porte usando PHP como linguagem de back-end.
 
 ### Objetivo
 
