@@ -1,4 +1,4 @@
-# Resumo de experiências e conhecimentos (a.k.a currículo)
+# Experiências e conhecimentos (a.k.a currículo)
 
 ## Apresentação
 
