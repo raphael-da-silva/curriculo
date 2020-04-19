@@ -86,7 +86,7 @@ Atividades: criação de sites estáticos, sites dinâmicos com painéis adminis
 
 ## Ferramentas e práticas usadas
 
-### Ferramentas de desenvolvimento
+### Ferramentas usadas para o desenvolvimento (ambiente)
 
 * Composer (gerenciador de dependências do PHP).
 * Terminal no Windows 10 (instalado via git).
@@ -94,7 +94,7 @@ Atividades: criação de sites estáticos, sites dinâmicos com painéis adminis
 * Firefox.
 * [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
 
-### As minhas práticas no código-fonte
+### As minhas práticas adotadas no código-fonte
 
 * Procuro ter uma [postura que não leve ao esgotamento mental](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com interfaces no PHP.
