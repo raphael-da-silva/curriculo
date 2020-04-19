@@ -92,7 +92,7 @@ Atividades: criação de sites estáticos, sites dinâmicos com painéis adminis
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
-* Laragon (como alternativa ao Xampp).
+* [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
 
 ### As minhas práticas no código-fonte
 
