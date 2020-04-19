@@ -40,7 +40,7 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * Início na área em 2012 (através de um estágio).
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
-### Experiência profissional
+### Experiências 
 
 **2017 - Programador web** \
 Atividades: desenvolvimento dedicado de sistema web fazendo uso do padrão MVC e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
