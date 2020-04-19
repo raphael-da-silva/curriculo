@@ -33,21 +33,28 @@ Trabalhar com back-end e PHP usando boas práticas e com pessoas que possam me e
 * [Imasters - JavaScript - Boas práticas](http://certificacao.imasters.com.br/users/raphael-c-silva)
 
 ***
-## Experiência
+## Experiência profissional
 
-### Atuação
+### Resumo
 
 * Início na área em 2012 (através de um estágio).
 * Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
+### Experiência profissional
+
+**Programador web** \
+Atividades: desenvolvimento dedicado de sistema web fazendo uso do padrão MVC e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
+
+**Programador web** \
+Atividades: criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos.
+
+## Experiência com tecnologias
+
 ### Linguagens
 * Experiência com PHP.
-* Experiência com JavaScript.
+* Experiência com JavaScript (usando Jquery e Ajax).
 * Experiência com HTML e CSS.
-
-### Ferramentas e bibliotecas
-* Experiência com Jquery.
-* Experiência com MySQL.
+* Experiência com SQL (usando MySQL).
 
 ### Experiências com padrões de separação de código
 * Experiência com o padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/) (sem usar os frameworks conhecidos do mercado).
