@@ -39,8 +39,8 @@ Duração: 1 ano.
 
 ### Resumo
 
-* Início na área em 2012 (através de um estágio).
-* Experiência em projetos de pequeno e médio porte (sites e sistemas).
+> Início na área em 2012 (através de um estágio). \
+> Experiência em projetos de pequeno e médio porte (sites e sistemas).
 
 ### Experiências 
 
