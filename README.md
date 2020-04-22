@@ -23,9 +23,11 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 ### Cursos
 
-* Técnico em Informática para internet (duração de 2 anos).
-* Aprendizagem Industrial de programador de computador (duração de 1 ano).
-* Superior incompleto.
+> **Técnico em Informática para internet** \
+Duração: 2 anos.
+
+> **Aprendizagem Industrial de programador de computador** \
+Duração: 1 ano.
 
 ### Certificações
 
@@ -42,10 +44,10 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 ### Experiências 
 
-**2017 - Programador web** \
+> **2017 - Programador web** \
 Atividades: desenvolvimento dedicado de sistema web fazendo uso do padrão MVC e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 
-**2012-2014 - Programador web** \
+> **2012-2014 - Programador web** \
 Atividades: criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário.
 
 ## Experiência com tecnologias
