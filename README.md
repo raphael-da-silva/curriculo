@@ -115,7 +115,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
-### Projetos pessoais
+## Projetos pessoais
 
 > [**Blog de programação**](http://raphael-da-silva.github.io) \
 **Objetivo do projeto:** fixar conhecimento e compartilhá-lo.
