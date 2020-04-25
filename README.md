@@ -116,6 +116,8 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 * Gosto de me comunicar através da escrita.
 * Consigo me virar para ler artigos técnicos em inglês (ainda não falo nessa língua).
 
+***
+
 ## Projetos pessoais
 
 > [**Blog de programação**](http://raphael-da-silva.github.io) \
