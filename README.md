@@ -123,5 +123,5 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 > [**Blog de programação**](http://raphael-da-silva.github.io) \
 **Objetivo do projeto:** fixar conhecimento e compartilhá-lo.
 
-> [**Projeto Programador Cansado**](https://raphael-da-silva.github.io/programador-cansado/) \
+> [**Projeto Programador Cansado**](https://programador-cansado.github.io/) \
 **Objetivo do projeto:** dedicar atenção a saúde mental no contexto da programação.
