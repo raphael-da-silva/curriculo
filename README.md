@@ -67,8 +67,8 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### Projetos pessoais (para estudo autodidata)
 
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
-* Experiência com bootstrap (em dois projetos pessoais não publicados).
-* Experiência com Slim Framework (em projetos pessoais não publicados).
+* Experiência com bootstrap (em projetos pessoais).
+* Experiência com [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
 
 ***
 
@@ -101,10 +101,10 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### As minhas práticas adotadas no código-fonte
 
 * Procuro ter uma [postura que não leve ao esgotamento mental](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
-* [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com interfaces no PHP.
+* [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com [interfaces](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php) no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores (maior granularidade).
 * Busca de nomes mais legíveis que deixem o propósito do código mais nítido.
-* Uso do padrão Revealing Module Pattern no Javascript (encapsulando o código em uma [IIFE](https://raphael-da-silva.github.io/iife-js/)).
+* Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
 
 ***
 
