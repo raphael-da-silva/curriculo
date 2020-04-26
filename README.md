@@ -77,7 +77,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### Afinidades
 
 * Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
-* Maior afinidade com Orientação a Objetos.
+* Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
 
 ### Conceitos da Orientação a Objetos que são o meu foco
