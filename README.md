@@ -83,7 +83,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### Conceitos da Orientação a Objetos que são o meu foco
 
 * Conceito de abstração.
-* Conceito de [interface](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/).
+* Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
 * Conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
 
 ***
@@ -101,7 +101,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### As minhas práticas adotadas no código-fonte
 
 * Procuro ter uma [postura que não leve ao esgotamento mental](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
-* [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com [interfaces](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php) no PHP.
+* [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com [interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/) no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores (maior granularidade).
 * Busca de nomes mais legíveis que deixem o propósito do código mais nítido.
 * Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
