@@ -92,7 +92,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 ### Ferramentas usadas para o desenvolvimento (ambiente)
 
-* Composer (gerenciador de dependências do PHP).
+* [Composer](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/composer.json) (gerenciador de dependências do PHP).
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
 * Firefox.
