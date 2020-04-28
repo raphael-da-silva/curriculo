@@ -67,7 +67,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 ### Projetos pessoais (para estudo autodidata)
 
 * Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
-* Experiência com bootstrap (em projetos pessoais).
+* Experiência com [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
 * Experiência com [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
 
 ***
