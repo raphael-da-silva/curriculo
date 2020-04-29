@@ -25,7 +25,7 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 > **Técnico em Informática para internet** \
 Duração: 2 anos. \
-OBS: incluiu carga horária de estágio com relatório.
+OBS: incluiu carga horária de estágio com relatório no final para concluir o curso.
 
 > **Aprendizagem Industrial de programador de computador** \
 Duração: 1 ano.
