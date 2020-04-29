@@ -51,7 +51,7 @@ Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framewor
 
 > **2012-2014 - Programador web** \
 Localidade: presencial \
-Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples.
+Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
 
 ## Experiência com tecnologias
 
