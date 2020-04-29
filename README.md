@@ -73,7 +73,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 ***
 
-## Assuntos de maior interesse
+## Assuntos de maior interesse (que são o meu foco)
 
 ### Afinidades
 
@@ -81,7 +81,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
 
-### Conceitos da Orientação a Objetos que são o meu foco
+### Conceitos da Orientação a Objetos
 
 * Conceito de abstração.
 * Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
