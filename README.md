@@ -131,6 +131,8 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 ## Participação no stackoverflow em português
 
+O meu objetivo de participar do site foi exercitar a escrita, a didática e aprender nas partes que não possuo muito domínio.
+
 * [Participação geral](https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity)
 * [Perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions)
 * [Respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers)
