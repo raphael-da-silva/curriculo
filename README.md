@@ -126,3 +126,11 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 > [**Projeto Programador Cansado**](https://programador-cansado.github.io/) \
 **Objetivo do projeto:** dedicar atenção a saúde mental no contexto da programação.
+
+***
+
+## Participação no stackoverflow em português
+
+* [Participação geral](https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity)
+* [Perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions)
+* [Respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers)
