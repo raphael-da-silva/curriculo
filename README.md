@@ -47,7 +47,7 @@ Duração: 1 ano.
 
 > **2017 - Programador web** \
 Localidade: presencial \
-Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
+Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 
 > **2012-2014 - Programador web** \
 Localidade: presencial \
