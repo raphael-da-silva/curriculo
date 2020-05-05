@@ -101,7 +101,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 ### As minhas práticas adotadas no código-fonte
 
-* Procuro ter uma [postura que não leve ao esgotamento mental](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
+* Procuro ter uma [postura saudável para a mente](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com [interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/) no PHP.
 * Separação do código em partes (classes, arquivos e etc) menores (maior granularidade).
 * Busca de nomes mais legíveis que deixem o propósito do código mais nítido.
