@@ -15,7 +15,7 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 
 ### Objetivo
 
-Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva, usar uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) para [evitar esgotamento mental](https://programador-cansado.github.io/) e ter uma carreira estável na programação. Procuro um lugar construtivo que não seja tóxico e que se importe com saúde mental e equilíbrio entre a vida profissional e pessoal.
+Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva, usar uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) para [evitar esgotamento mental](https://programador-cansado.github.io/) e ter uma carreira estável na programação. Procuro um lugar construtivo que se importe com saúde mental e equilíbrio entre a vida profissional e pessoal.
 
 ***
 
