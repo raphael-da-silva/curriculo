@@ -85,7 +85,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 * Conceito de abstração.
 * Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
-* Conceito de [injeção de dependência](https://raphael-da-silva.github.io/injetar-sempre/).
+* Conceito de [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
 
 ***
 
