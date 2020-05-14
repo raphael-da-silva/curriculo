@@ -42,6 +42,7 @@ Duração: 1 ano.
 
 > Início na área em 2012 (através de um estágio). \
 > Experiência em projetos de pequeno e médio porte (sites e sistemas).
+> Mais tempo (e interesse) dedicado ao PHP e Orientação a Objetos.
 
 ### Experiências 
 
