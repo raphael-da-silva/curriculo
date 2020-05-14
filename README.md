@@ -38,7 +38,7 @@ Duração: 1 ano.
 ***
 ## Experiência profissional
 
-### Resumo
+### Resumo da minha trajetória
 
 > Início na área em 2012 (através de um estágio). \
 > Experiência em projetos de pequeno e médio porte (sites e sistemas).
