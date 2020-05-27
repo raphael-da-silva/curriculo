@@ -118,6 +118,24 @@ Duração: 1 ano.
 * Gosto de me comunicar através da escrita.
 * Consigo me virar para ler artigos técnicos em inglês (ainda não falo nessa língua).
 
+### Principais textos escritos
+
+Links com os principais posts que escrevi no meu blog.
+
+* [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
+* [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
+* [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
+* [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
+* [Relacionamentos e interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/)
+
+### Participação no stackoverflow em português
+
+O meu objetivo de participar do site foi exercitar a escrita, a didática e aprender nas partes que não possuo muito domínio.
+
+* [Participação geral](https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity)
+* [Perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions)
+* [Respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers)
+
 ***
 
 ## Projetos pessoais
@@ -127,13 +145,3 @@ Duração: 1 ano.
 
 > [**Projeto Programador Cansado**](https://programador-cansado.github.io/) \
 **Objetivo do projeto:** dedicar atenção a saúde mental no contexto da programação.
-
-***
-
-## Participação no stackoverflow em português
-
-O meu objetivo de participar do site foi exercitar a escrita, a didática e aprender nas partes que não possuo muito domínio.
-
-* [Participação geral](https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity)
-* [Perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions)
-* [Respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers)
