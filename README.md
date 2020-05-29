@@ -68,7 +68,7 @@ Duração: 1 ano.
 
 ### Projetos pessoais (para estudo autodidata)
 
-* Experiência com Markdown (escrevendo gists e um [blog](http://raphael-da-silva.github.io/) hospedado no Github).
+* Experiência com Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) hospedado no Github e arquivos como este currículo).
 * Experiência com [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
 * Experiência com [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
 
