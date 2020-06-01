@@ -1,11 +1,17 @@
-# Currículo
+# Raphael da Silva - Currículo
+
+Github: https://github.com/raphael-da-silva
+Blog: http://raphael-da-silva.github.io
+
+***
 
 ## Apresentação
 
 Gosto de escrever código e [escrever alguns posts técnicos em um blog hospedado no Github](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. Estudo PHP desde 2012 quando iniciei na área, o meu objetivo é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais afinidade. Além disso, gostaria de poder trabalhar com boas práticas em uma empresa que me possibilitasse aprender mais e consolidar isso. 
 
-Apesar de ter experiência desde 2012, ainda não tive uma experiência com uma equipe grande trocando conhecimentos. Como não consegui ter muitas experiências na minha cidade, passei a estudar de maneira autoditada [com projetos pessoais feitos
-para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência que são conceitos relacionados a flexibilidade e baixo acoplamento.
+Apesar de ter experiência desde 2012, ainda não tive uma experiência com uma equipe grande trocando conhecimentos. Como não consegui ter muitas experiências na minha cidade, passei a estudar de maneira autoditada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência que são conceitos relacionados a flexibilidade e baixo acoplamento.
+
+***
 
 ## Resumo profissional
 
