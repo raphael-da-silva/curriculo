@@ -1,6 +1,6 @@
 # Raphael da Silva - Currículo
 
-Github: https://github.com/raphael-da-silva
+Github: https://github.com/raphael-da-silva \
 Blog: http://raphael-da-silva.github.io
 
 ***
