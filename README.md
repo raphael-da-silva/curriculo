@@ -1,4 +1,4 @@
-# Experiências e conhecimentos (a.k.a currículo)
+# Currículo
 
 ## Apresentação
 
@@ -15,7 +15,11 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 
 ### Objetivo
 
-Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva, usar uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) e ter uma carreira estável na programação. Estou disponível para trabalho remoto.
+Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva, usar uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) e ter uma carreira estável na programação.
+
+### Disponibilidade
+
+Estou disponível para trabalho remoto em empresas fora da cidade onde estou morando.
 
 ***
 
@@ -32,8 +36,8 @@ Duração: 1 ano.
 
 ### Certificações
 
-* [Imasters - PHP - Boas práticas (emitido em 2016)](http://certificacao.imasters.com.br/users/raphael-c-silva)
-* [Imasters - JavaScript - Boas práticas (emitido em 2016)](http://certificacao.imasters.com.br/users/raphael-c-silva)
+* Imasters - PHP - Boas práticas (emitido em 2016)
+* Imasters - JavaScript - Boas práticas (emitido em 2016)
 
 ***
 ## Experiência profissional
