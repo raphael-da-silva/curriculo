@@ -52,16 +52,18 @@ Duração: 1 ano.
 ### Resumo da minha trajetória
 
 * Início na área em 2012 (através de um estágio por meio de um curso técnico).
+
 * Experiência em projetos de pequeno e médio porte (sites e sistemas web).
+
 * Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
 
 ### Últimos empregos 
 
-**2017 - Programador web (presencial)** \
-**Atividades:** desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
+> **2017 - Programador web (presencial)** \
+Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 
-**2012-2014 - Programador web (presencial)** \
-**Atividades:** criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+> **2012-2014 - Programador web (presencial)** \
+Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
 
 ***
 
