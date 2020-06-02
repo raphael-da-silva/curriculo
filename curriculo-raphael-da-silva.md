@@ -153,8 +153,12 @@ O meu objetivo de participar do site foi exercitar a escrita, a didática e apre
 
 ## Projetos pessoais
 
+Alguns projetos pessoais que idealizei.
+
 > [**Blog de programação**](http://raphael-da-silva.github.io) \
-**Objetivo do projeto:** fixar conhecimento e compartilhá-lo.
+Objetivo do projeto: fixar conhecimento e compartilhá-lo. \
+Data de criação: 2018
 
 > [**Projeto Programador Cansado**](https://programador-cansado.github.io/) \
-**Objetivo do projeto:** dedicar atenção a saúde mental no contexto da programação.
+Objetivo do projeto: dedicar atenção a saúde mental no contexto da programação. \
+Data de criação: 2020
