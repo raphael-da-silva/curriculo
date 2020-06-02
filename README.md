@@ -112,7 +112,6 @@ Duração: 1 ano.
 
 ### As minhas práticas adotadas no código-fonte
 
-* Procuro ter uma [postura saudável para a mente](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 * [Injeção de dependência](https://raphael-da-silva.github.io/injecao-pdo/) com [interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/) no PHP.
 * Separação do código [em partes (classes, arquivos e etc) menores](https://github.com/raphael-da-silva/frases-de-filmes/tree/master/src) (maior granularidade).
 * [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o propósito do código mais nítido.
