@@ -46,23 +46,24 @@ Duração: 1 ano.
 * Imasters - JavaScript - Boas práticas (emitido em 2016)
 
 ***
+
 ## Experiência profissional
 
 ### Resumo da minha trajetória
 
-> Início na área em 2012 (através de um estágio). \
-> Experiência em projetos de pequeno e médio porte (sites e sistemas). \
-> Mais tempo (e interesse) dedicado ao PHP e Orientação a Objetos.
+* Início na área em 2012 (através de um estágio por meio de um curso técnico).
+* Experiência em projetos de pequeno e médio porte (sites e sistemas web).
+* Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
 
-### Experiências 
+### Últimos empregos 
 
-> **2017 - Programador web** \
-**Localidade:** presencial \
+**2017 - Programador web (presencial)** \
 **Atividades:** desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 
-> **2012-2014 - Programador web** \
-**Localidade:** presencial \
-**Atividades**: criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+**2012-2014 - Programador web (presencial)** \
+**Atividades:** criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+
+***
 
 ## Experiência com tecnologias
 
@@ -78,7 +79,7 @@ Duração: 1 ano.
 
 ### Projetos pessoais (para estudo autodidata)
 
-* Experiência com Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) hospedado no Github e arquivos como este currículo).
+* Experiência com Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) e arquivos como este currículo).
 * Experiência com [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
 * Experiência com [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
 
