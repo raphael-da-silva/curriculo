@@ -141,6 +141,7 @@ Links com os principais posts que escrevi no meu blog.
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
 * [Relacionamentos e interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/)
 * [Uso do pipe (a.k.a o tubo que conecta tudo)](https://raphael-da-silva.github.io/uso-do-pipe/)
+* [Métodos estáticos e seus problemas](https://raphael-da-silva.github.io/metodos-estaticos/)
 
 ### Participação no stackoverflow em português
 
