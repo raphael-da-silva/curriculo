@@ -110,6 +110,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 * [Composer](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/composer.json) (gerenciador de dependências do PHP).
 * Terminal no Windows 10 (instalado via git).
 * Sublime Text 3.
+* Visual Studio Code (só para escrever na linguagem markdown e ver o preview).
 * Firefox.
 * [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
 
