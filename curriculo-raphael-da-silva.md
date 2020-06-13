@@ -136,6 +136,7 @@ Criação de sites estáticos, sites dinâmicos com painéis administrativos e c
 
 Links com os principais posts que escrevi no meu blog.
 
+* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
