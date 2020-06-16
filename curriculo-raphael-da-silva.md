@@ -1,12 +1,9 @@
 # Raphael da Silva - Currículo
 
-* Github: https://github.com/raphael-da-silva 
-
-* Blog: http://raphael-da-silva.github.io
-
-* Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
-
-* Stackoverflow: https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity
+Github: https://github.com/raphael-da-silva \
+Blog: http://raphael-da-silva.github.io \
+Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/ \
+Stackoverflow: https://pt.stackoverflow.com/users/108790/raphael?tab=topactivity
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 ***
