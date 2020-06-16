@@ -2,7 +2,7 @@
 
 Github: https://github.com/raphael-da-silva 
 ***
-Blog: http://raphael-da-silva.github.io \
+Blog: http://raphael-da-silva.github.io
 ***
 Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 ***
