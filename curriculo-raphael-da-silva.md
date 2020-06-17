@@ -60,7 +60,7 @@ Duração: 1 ano.
 
 * Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
 
-### Últimos empregos 
+### Experiências com empregos 
 
 > **2017 - Programador web (presencial)** \
 Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
