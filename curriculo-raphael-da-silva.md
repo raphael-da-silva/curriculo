@@ -1,10 +1,13 @@
-# Raphael da Silva - Currículo
+# Currículo
+
+## Raphael da Silva
 
 Github: https://github.com/raphael-da-silva \
 Blog: http://raphael-da-silva.github.io \
 Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+
 ***
 
 ## Apresentação
@@ -36,16 +39,16 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Cursos
 
 > ***
-> **Técnico em Informática para internet** 
-> ***
+> #### Técnico em Informática para internet 
+> 
 > Duração: 2 anos. 
 > 
 > OBS: incluiu carga horária de estágio com relatório no final para concluir o curso.
 > ***
 
 > ***
-> **Aprendizagem Industrial de programador de computador** 
-> ***
+> #### Aprendizagem Industrial de programador de computador 
+> 
 > Duração: 1 ano.
 > ****
 
@@ -69,15 +72,27 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Experiências com empregos 
 
 > ***
-> **2017 - Programador web (presencial)**
+> #### 2017 - Programador web (presencial)
 > 
 > Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
 > ***
+> Tecnologias usadas:
+> - PHP (com Orientação a Objetos)
+> - MVC
+> - Javascript (com modularização, Jquery e Ajax)
+> - MySQL
+> ***
 
 > ***
-> **2012-2014 - Programador web (presencial)**
+> #### 2012-2014 - Programador web (presencial)
 > 
 > Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+> ***
+> Tecnologias usadas:
+> - PHP
+> - CSS e HTML
+> - Javascript (com Jquery e Ajax)
+> - MySQL
 > ***
 
 ***
@@ -173,15 +188,15 @@ O meu objetivo de participar do site foi exercitar a escrita, a didática e apre
 Alguns projetos pessoais que idealizei para me expressar e estudar.
 
 > ***
-> [**Blog de programação**](http://raphael-da-silva.github.io)
-> ***
+> #### [Blog de programação](http://raphael-da-silva.github.io)
+> 
 > Objetivo: fixar conhecimento e compartilhá-lo.
 > Data de criação: 2018
 > ***
 
 > ***
-> [**Projeto Programador Cansado**](https://programador-cansado.github.io/)
-> ***
+> #### [Projeto Programador Cansado](https://programador-cansado.github.io/)
+> 
 > Objetivo: dedicar atenção a saúde mental no contexto da programação.
 > Data de criação: 2020
 > ***
