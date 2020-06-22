@@ -41,14 +41,14 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 > ***
 > #### Técnico em Informática para internet 
 > 
-> **Duração:** 2 anos. 
+> **Duração:** 2 anos. \
 > **Descrição:** curso técnico com disciplinas que abrangeram assuntos como programação, banco de dados e outros. Incluiu carga horária de estágio com relatório no final para concluir o curso.
 > ***
 
 > ***
 > #### Aprendizagem Industrial de programador de computador 
 > 
-> **Duração:** 1 ano.
+> **Duração:** 1 ano. \
 > **Descrição:** curso básico de introdução a conceitos básicos de programação.
 > ****
 
@@ -105,7 +105,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 * HTML e CSS.
 * SQL (usando MySQL).
 
-### Padrões de separação de código
+### Padrões de separação/organização do código-ffonte
 * Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
 * Revealing Module Pattern no JavaScript.
 
@@ -190,13 +190,13 @@ Alguns projetos pessoais que idealizei para me expressar e estudar.
 > ***
 > ### [Blog de programação](http://raphael-da-silva.github.io)
 > 
-> Objetivo: fixar conhecimento e compartilhá-lo.
-> Data de criação: 2018
+> **Objetivo:** fixar conhecimento e compartilhá-lo. \
+> **Data de criação:** 2018
 > ***
 
 > ***
 > ### [Projeto Programador Cansado](https://programador-cansado.github.io/)
 > 
-> Objetivo: dedicar atenção a saúde mental no contexto da programação.
-> Data de criação: 2020
+> **Objetivo:** dedicar atenção a saúde mental no contexto da programação. \
+> **Data de criação:** 2020
 > ***
