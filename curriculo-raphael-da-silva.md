@@ -1,6 +1,4 @@
-# Currículo
-
-## Raphael da Silva
+# Currículo - Raphael da Silva
 
 Github: https://github.com/raphael-da-silva \
 Blog: http://raphael-da-silva.github.io \
@@ -39,14 +37,14 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Cursos
 
 > ***
-> #### Técnico em Informática para internet 
+> ### Técnico em Informática para internet 
 > 
 > **Duração:** 2 anos. \
 > **Descrição:** curso técnico com disciplinas que abrangeram assuntos como programação, banco de dados e outros. Incluiu carga horária de estágio com relatório no final para concluir o curso.
 > ***
 
 > ***
-> #### Aprendizagem Industrial de programador de computador 
+> ### Aprendizagem Industrial de programador de computador 
 > 
 > **Duração:** 1 ano. \
 > **Descrição:** curso básico de introdução a conceitos básicos de programação.
