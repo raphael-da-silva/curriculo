@@ -9,9 +9,9 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 ## Apresentação
 
-Gosto de escrever código e [escrever alguns posts técnicos em um blog hospedado no Github](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. Estudo PHP desde 2012 quando iniciei na área, o meu objetivo é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais afinidade.
+Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. Estudo PHP desde 2012 quando iniciei na área, o meu objetivo é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais afinidade.
 
-Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autoditada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência que são conceitos relacionados a flexibilidade e baixo acoplamento.
+Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autoditada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência.
 
 ***
 
@@ -23,7 +23,7 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 
 ### Objetivo
 
-Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva, usar uma [postura saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar/blob/master/README.md) e ter uma carreira estável na programação.
+Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva e ter uma carreira estável na programação.
 
 ### Disponibilidade
 
@@ -35,12 +35,19 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ### Cursos
 
-> **Técnico em Informática para internet** \
-Duração: 2 anos. \
-OBS: incluiu carga horária de estágio com relatório no final para concluir o curso.
+> ***
+> **Técnico em Informática para internet** 
+> ***
+> Duração: 2 anos. 
+> 
+> OBS: incluiu carga horária de estágio com relatório no final para concluir o curso.
+> ***
 
-> **Aprendizagem Industrial de programador de computador** \
-Duração: 1 ano.
+> ***
+> **Aprendizagem Industrial de programador de computador** 
+> ***
+> Duração: 1 ano.
+> ****
 
 ### Certificações
 
@@ -61,31 +68,37 @@ Duração: 1 ano.
 
 ### Experiências com empregos 
 
-> **2017 - Programador web (presencial)** \
-Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
+> ***
+> **2017 - Programador web (presencial)**
+> 
+> Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
+> ***
 
-> **2012-2014 - Programador web (presencial)** \
-Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+> ***
+> **2012-2014 - Programador web (presencial)**
+> 
+> Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
+> ***
 
 ***
 
 ## Experiência com tecnologias
 
 ### Linguagens
-* Experiência com PHP.
-* Experiência com JavaScript (usando Jquery e Ajax).
-* Experiência com HTML e CSS.
-* Experiência com SQL (usando MySQL).
+* PHP (com Orientação a Objetos).
+* JavaScript (usando Jquery, modularização e Ajax).
+* HTML e CSS.
+* SQL (usando MySQL).
 
 ### Padrões de separação de código
-* Experiência com o padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/) (sem usar os frameworks conhecidos do mercado).
-* Experiência com o Revealing Module Pattern no JavaScript.
+* Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
+* Revealing Module Pattern no JavaScript.
 
 ### Projetos pessoais (para estudo autodidata)
 
-* Experiência com Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) e arquivos como este currículo).
-* Experiência com [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
-* Experiência com [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
+* Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) e arquivos como este currículo).
+* Uso básico do [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
+* Uso do [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
 
 ***
 
@@ -157,12 +170,18 @@ O meu objetivo de participar do site foi exercitar a escrita, a didática e apre
 
 ## Projetos pessoais
 
-Alguns projetos pessoais que idealizei.
+Alguns projetos pessoais que idealizei para me expressar e estudar.
 
-> [**Blog de programação**](http://raphael-da-silva.github.io) \
-Objetivo do projeto: fixar conhecimento e compartilhá-lo. \
-Data de criação: 2018
+> ***
+> [**Blog de programação**](http://raphael-da-silva.github.io)
+> ***
+> Objetivo: fixar conhecimento e compartilhá-lo.
+> Data de criação: 2018
+> ***
 
-> [**Projeto Programador Cansado**](https://programador-cansado.github.io/) \
-Objetivo do projeto: dedicar atenção a saúde mental no contexto da programação. \
-Data de criação: 2020
+> ***
+> [**Projeto Programador Cansado**](https://programador-cansado.github.io/)
+> ***
+> Objetivo: dedicar atenção a saúde mental no contexto da programação.
+> Data de criação: 2020
+> ***
