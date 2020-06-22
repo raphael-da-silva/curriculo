@@ -41,21 +41,21 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 > ***
 > #### Técnico em Informática para internet 
 > 
-> Duração: 2 anos. 
-> 
-> OBS: incluiu carga horária de estágio com relatório no final para concluir o curso.
+> **Duração:** 2 anos. 
+> **Descrição:** curso técnico com disciplinas que abrangeram assuntos como programação, banco de dados e outros. Incluiu carga horária de estágio com relatório no final para concluir o curso.
 > ***
 
 > ***
 > #### Aprendizagem Industrial de programador de computador 
 > 
-> Duração: 1 ano.
+> **Duração:** 1 ano.
+> **Descrição:** curso básico de introdução a conceitos básicos de programação.
 > ****
 
 ### Certificações
 
-* Imasters - PHP - Boas práticas (emitido em 2016)
-* Imasters - JavaScript - Boas práticas (emitido em 2016)
+* Imasters - Boas práticas PHP (emitido em 2016)
+* Imasters - Boas práticas JavaScript (emitido em 2016)
 
 ***
 
@@ -72,10 +72,10 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Experiências com empregos 
 
 > ***
-> #### 2017 - Programador web (presencial)
+> ### 2017 - Programador web (presencial)
 > 
 > Desenvolvimento dedicado de sistema web fazendo uso do padrão MVC (com framework interno que desenvolvi) e trabalhando principalmente no back-end com PHP, Javascript (usando Revealing Module Pattern) e MySQL.
-> ***
+>
 > Tecnologias usadas:
 > - PHP (com Orientação a Objetos)
 > - MVC
@@ -84,10 +84,10 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 > ***
 
 > ***
-> #### 2012-2014 - Programador web (presencial)
+> ### 2012-2014 - Programador web (presencial)
 > 
 > Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
-> ***
+> 
 > Tecnologias usadas:
 > - PHP
 > - CSS e HTML
@@ -138,8 +138,8 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Ferramentas usadas para o desenvolvimento (ambiente)
 
 * [Composer](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/composer.json) (gerenciador de dependências do PHP).
-* Terminal no Windows 10 (instalado via git).
-* Sublime Text 3.
+* Terminal no Windows 10 [(instalado via git)](https://raphael-da-silva.github.io/git-bash/).
+* Sublime Text 3 (para o código-fonte).
 * Visual Studio Code (só para escrever na linguagem markdown e ver o preview).
 * Firefox.
 * [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
@@ -188,14 +188,14 @@ O meu objetivo de participar do site foi exercitar a escrita, a didática e apre
 Alguns projetos pessoais que idealizei para me expressar e estudar.
 
 > ***
-> #### [Blog de programação](http://raphael-da-silva.github.io)
+> ### [Blog de programação](http://raphael-da-silva.github.io)
 > 
 > Objetivo: fixar conhecimento e compartilhá-lo.
 > Data de criação: 2018
 > ***
 
 > ***
-> #### [Projeto Programador Cansado](https://programador-cansado.github.io/)
+> ### [Projeto Programador Cansado](https://programador-cansado.github.io/)
 > 
 > Objetivo: dedicar atenção a saúde mental no contexto da programação.
 > Data de criação: 2020
