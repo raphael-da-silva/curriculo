@@ -11,7 +11,7 @@ Dev.to: https://dev.to/raphaeldasilva
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais interesse e afinidade.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade.
 
 Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência.
 
@@ -124,7 +124,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 * Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
-* Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
+* Maior tempo de estudo em PHP e Orientação a Objetos.
 
 ### Conceitos da Orientação a Objetos
 
@@ -171,7 +171,6 @@ Links com os principais posts que escrevi no meu blog.
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
-* [Relacionamentos e interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/)
 * [Uso do pipe (a.k.a o tubo que conecta tudo)](https://raphael-da-silva.github.io/uso-do-pipe/)
 * [Métodos estáticos e seus problemas](https://raphael-da-silva.github.io/metodos-estaticos/)
 
