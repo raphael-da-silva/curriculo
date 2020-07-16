@@ -15,8 +15,6 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 
 Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência.
 
-Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
-
 ***
 
 ## Resumo profissional
@@ -156,6 +154,8 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ## Estudos e comunicação 
 
+Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
+
 ### Comunicação e método de estudo
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
@@ -192,11 +192,4 @@ Alguns projetos pessoais que idealizei para me expressar e estudar.
 > 
 > **Objetivo:** fixar conhecimento e compartilhá-lo. \
 > **Data de criação:** 2018
-> ***
-
-> ***
-> ### [Projeto Programador Cansado](https://programador-cansado.github.io/)
-> 
-> **Objetivo:** dedicar atenção a saúde mental no contexto da programação. \
-> **Data de criação:** 2020
 > ***
