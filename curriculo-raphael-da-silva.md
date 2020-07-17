@@ -11,7 +11,7 @@ Dev.to: https://dev.to/raphaeldasilva
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse.
 
 Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência.
 
@@ -166,13 +166,12 @@ Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://
 
 Links com os principais posts que escrevi no meu blog.
 
-* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
-* [Uso do pipe (a.k.a o tubo que conecta tudo)](https://raphael-da-silva.github.io/uso-do-pipe/)
 * [Métodos estáticos e seus problemas](https://raphael-da-silva.github.io/metodos-estaticos/)
+* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 
 ### Participação no stackoverflow em português
 
