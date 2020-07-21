@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse.
 
-Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como [interfaces](https://raphael-da-silva.github.io/contando-historia/) e injeção de dependência.
+Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
 
 ***
 
@@ -115,13 +115,13 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ## Assuntos de maior interesse (que são o meu foco)
 
-### Afinidades
+### Áreas de maior afinidade
 
-* Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
+* Maior afinidade com PHP e back-end.
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos.
 
-### Conceitos da Orientação a Objetos
+### Conceitos da Orientação a Objetos com maior interesse
 
 * Conceito de abstração.
 * Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
