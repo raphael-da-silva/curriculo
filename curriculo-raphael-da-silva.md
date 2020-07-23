@@ -101,7 +101,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 * HTML e CSS.
 * SQL (usando MySQL).
 
-### Padrões de separação/organização do código-ffonte
+### Padrões de separação/organização do código-fonte
 * Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
 * Revealing Module Pattern no JavaScript.
 
@@ -151,7 +151,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ## Estudos e comunicação 
 
-Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
+ Escrevo [alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
 
 ### Comunicação e método de estudo
 
