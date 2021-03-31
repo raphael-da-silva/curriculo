@@ -8,9 +8,7 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse.
-
-Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse. Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
 
 ***
 
@@ -60,9 +58,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 ### Resumo da minha trajetória
 
 * Início na área em 2012 (através de um estágio por meio de um curso técnico).
-
 * Experiência em projetos de pequeno e médio porte (sites e sistemas web).
-
 * Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
 
 ### Experiências com empregos 
@@ -85,7 +81,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 > Criação de sites estáticos, sites dinâmicos com painéis administrativos e criação de sistemas web de pequeno porte. Também constava a manutenção em sistemas antigos da empresa para adicionar novos recursos. O início do trabalho foi como estagiário trabalhando em sites simples para se habituar as tecnologias da empresa.
 > 
 > Tecnologias usadas:
-> - PHP
+> - PHP (mais procedural do que POO)
 > - CSS e HTML
 > - Javascript (com Jquery e Ajax)
 > - MySQL
@@ -95,15 +91,16 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ## Experiência com tecnologias
 
-### Linguagens
+### Linguagens com que já trabalhei
 * PHP (com Orientação a Objetos).
 * JavaScript (usando Jquery, modularização e Ajax).
 * HTML e CSS.
 * SQL (usando MySQL).
 
-### Padrões de separação/organização do código-fonte
-* Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
-* Revealing Module Pattern no JavaScript.
+### Tipos de projeto onde já atuei
+
+* Sites (estáticos e com conteúdo dinamico.
+* Sistemas de médio porte.
 
 ### Projetos pessoais (para estudo autodidata)
 
@@ -115,21 +112,23 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ## Assuntos de maior interesse (que são o meu foco)
 
-### Áreas de maior afinidade
+### Áreas de maior afinidade/interesse
 
 * Maior afinidade com PHP e back-end.
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos.
-
-### Conceitos da Orientação a Objetos com maior interesse
-
-* Conceito de abstração.
-* Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
-* Conceito de [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
+* Maior interesse por [interfaces](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php) e [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
 
 ***
 
 ## Ferramentas e práticas usadas
+
+### Padrões de separação/organização que já usei no código-fonte
+* Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
+* Injeção de dependência com interfaces no PHP.
+* Separação do código [em partes (classes, arquivos e etc) menores](https://github.com/raphael-da-silva/frases-de-filmes/tree/master/src) (maior granularidade).
+* [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o propósito do código mais nítido.
+* Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
 
 ### Ferramentas usadas para o desenvolvimento (ambiente)
 
@@ -139,13 +138,6 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 * Visual Studio Code (só para escrever na linguagem markdown e ver o preview).
 * Firefox.
 * [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
-
-### As minhas práticas adotadas no código-fonte
-
-* Injeção de dependência com interfaces no PHP.
-* Separação do código [em partes (classes, arquivos e etc) menores](https://github.com/raphael-da-silva/frases-de-filmes/tree/master/src) (maior granularidade).
-* [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o propósito do código mais nítido.
-* Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
 
 ***
 
