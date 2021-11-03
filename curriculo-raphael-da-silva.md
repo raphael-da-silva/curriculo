@@ -22,10 +22,6 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 
 Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva e ter uma carreira estável na programação.
 
-### Disponibilidade
-
-Estou disponível para trabalho remoto em empresas fora da cidade onde estou morando.
-
 ***
 
 ## Ensino
@@ -99,7 +95,7 @@ Estou disponível para trabalho remoto em empresas fora da cidade onde estou mor
 
 ### Tipos de projeto onde já atuei
 
-* Sites (estáticos e com conteúdo dinamico.
+* Sites (estáticos e com conteúdo dinamico com painel admin).
 * Sistemas de médio porte.
 
 ### Projetos pessoais (para estudo autodidata)
