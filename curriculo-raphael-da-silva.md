@@ -18,10 +18,6 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 
 Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e médio porte usando PHP como linguagem de back-end.
 
-### Objetivo
-
-Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibilitem a troca de conhecimentos de forma construtiva e ter uma carreira estável na programação.
-
 ***
 
 ## Ensino
@@ -108,8 +104,6 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 ## Assuntos de maior interesse (que são o meu foco)
 
-### Áreas de maior afinidade/interesse
-
 * Maior afinidade com PHP e back-end.
 * Maior afinidade com Orientação a Objetos.
 * Maior tempo de estudo em PHP e Orientação a Objetos.
@@ -125,16 +119,6 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 * Separação do código [em partes (classes, arquivos e etc) menores](https://github.com/raphael-da-silva/frases-de-filmes/tree/master/src) (maior granularidade).
 * [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o propósito do código mais nítido.
 * Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
-
-### Ferramentas usadas para o desenvolvimento (ambiente)
-
-* Composer
-* Terminal no Windows 10 [(instalado via git)](https://raphael-da-silva.github.io/git-bash/).
-* Sublime Text 3 (para o código-fonte).
-* Firefox.
-* [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
-
-***
 
 ## Estudos e comunicação 
 
