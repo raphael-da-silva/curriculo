@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse. Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada [com projetos pessoais feitos para eu aplicar os conceitos que estudei na prática](https://github.com/raphael-da-silva/frases-de-filmes), principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse. Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada, principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
 
 ***
 
