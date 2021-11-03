@@ -145,7 +145,7 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Gosto de me comunicar através da escrita.
-* Consigo me virar para ler artigos técnicos em inglês (ainda não falo nessa língua).
+* Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
 ### Principais textos escritos
 
@@ -174,6 +174,6 @@ Alguns projetos pessoais que idealizei para me expressar e estudar.
 > ***
 > ### [Blog de programação](http://raphael-da-silva.github.io)
 > 
-> **Objetivo:** fixar conhecimento e compartilhá-lo. \
+> **Objetivo:** escrever. \
 > **Data de criação:** 2018
 > ***
