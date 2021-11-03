@@ -111,7 +111,7 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 ### Áreas de maior afinidade/interesse
 
 * Maior afinidade com PHP e back-end.
-* Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
+* Maior afinidade com Orientação a Objetos.
 * Maior tempo de estudo em PHP e Orientação a Objetos.
 * Maior interesse por [interfaces](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php) e [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
 
@@ -128,10 +128,9 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 
 ### Ferramentas usadas para o desenvolvimento (ambiente)
 
-* [Composer](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/composer.json) (gerenciador de dependências do PHP).
+* Composer
 * Terminal no Windows 10 [(instalado via git)](https://raphael-da-silva.github.io/git-bash/).
 * Sublime Text 3 (para o código-fonte).
-* Visual Studio Code (só para escrever na linguagem markdown e ver o preview).
 * Firefox.
 * [Laragon](https://raphael-da-silva.github.io/ambiente-com-laragon/) (como alternativa ao Xampp).
 
@@ -147,7 +146,7 @@ Trabalhar com back-end e PHP usando boas práticas junto com pessoas que possibi
 * Gosto de me comunicar através da escrita.
 * Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
-### Principais textos escritos
+### Alguns textos escritos
 
 Links com os principais posts que escrevi no meu blog.
 
@@ -169,7 +168,7 @@ O meu objetivo de participar do site foi exercitar a escrita, a didática e apre
 
 ## Projetos pessoais
 
-Alguns projetos pessoais que idealizei para me expressar e estudar.
+Alguns projetos pessoais que idealizei.
 
 > ***
 > ### [Blog de programação](http://raphael-da-silva.github.io)
