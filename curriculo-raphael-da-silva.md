@@ -98,14 +98,14 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 
 * Markdown (escrevendo gists, um [blog](http://raphael-da-silva.github.io/) e arquivos como este currículo).
 * Uso básico do [bootstrap](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/templates/layout.phtml) (em projetos pessoais).
-* Uso do [Slim Framework](https://github.com/raphael-da-silva/frases-de-filmes) (em projetos pessoais).
+* Uso de frameworks PHP para estudar (https://github.com/raphael-da-silva/frases-de-filmes) em projetos pessoais.
 
 ***
 
 ## Assuntos de maior interesse (que são o meu foco)
 
 * Maior afinidade com PHP e back-end.
-* Maior afinidade com Orientação a Objetos.
+* Maior afinidade/interesse com Orientação a Objetos.
 * Maior tempo de estudo em PHP e Orientação a Objetos.
 * Maior interesse por [interfaces](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php) e [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
 
