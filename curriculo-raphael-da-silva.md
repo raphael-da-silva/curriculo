@@ -18,6 +18,12 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 
 Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e médio porte usando PHP como linguagem de back-end.
 
+### Trajetória resumida
+
+* Início na área em 2012 (através de um estágio por meio de um curso técnico).
+* Experiência em projetos de pequeno e médio porte (sites e sistemas web).
+* Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
+
 ***
 
 ## Ensino
@@ -46,14 +52,6 @@ Trabalho com desenvolvimento web desde 2012 atuando em projetos de pequeno e mé
 ***
 
 ## Experiência profissional
-
-### Resumo da minha trajetória
-
-* Início na área em 2012 (através de um estágio por meio de um curso técnico).
-* Experiência em projetos de pequeno e médio porte (sites e sistemas web).
-* Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
-
-### Experiências com empregos 
 
 > ***
 > ### 2017 - Programador web (presencial)
