@@ -115,11 +115,11 @@ OBS: Comecei o bacharelado em sistemas de informação, mas não conclui.
 
 ## Ferramentas e práticas usadas
 
-### Padrões de separação/organização que já usei no código-fonte
+### Padrões de separação/organização/modularização que já usei no código-fonte
 * Padrão [MVC](https://raphael-da-silva.github.io/resumo-mvc/).
 * Injeção de dependência com interfaces no PHP.
 * Separação do código [em partes (classes, arquivos e etc) menores](https://github.com/raphael-da-silva/frases-de-filmes/tree/master/src) (maior granularidade).
-* [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o propósito do código mais nítido.
+* [Busca de nomes mais legíveis](https://github.com/raphael-da-silva/frases-de-filmes/commit/1c61581b41056b99c70adb67204a11118e987588) que deixem o [propósito do código mais nítido.](https://pt.stackoverflow.com/questions/399158/por-que-n%c3%a3o-comentar-o-c%c3%b3digo/399484#399484)
 * Uso do padrão [Revealing Module Pattern no Javascript (encapsulando o código em uma IIFE)](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/public/assets/js/app.js).
 
 ## Estudos e comunicação 
@@ -128,11 +128,11 @@ OBS: Comecei o bacharelado em sistemas de informação, mas não conclui.
 
 ### Comunicação e método de estudo
 
-* Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
-* Gosto de me comunicar através da escrita.
+* Escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
+* Se comunicar através da escrita.
 * Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
-### Alguns textos escritos
+### Alguns posts escritos
 
 Links com os principais posts que escrevi no meu blog.
 
