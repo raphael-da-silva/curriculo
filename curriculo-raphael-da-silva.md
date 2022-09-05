@@ -25,6 +25,7 @@ Trabalhei com desenvolvimento atuando em projetos de pequeno e médio porte usan
 ### Trajetória resumida
 
 * Início na área em 2012 (através de um estágio por meio de um curso técnico).
+* Comecei com PHP, javascript com Jquery, MySQl, CSS e HTML.
 * Experiência em projetos de pequeno e médio porte (sites e sistemas web).
 * Mais tempo (interesse e foco) dedicado ao PHP e Orientação a Objetos.
 
