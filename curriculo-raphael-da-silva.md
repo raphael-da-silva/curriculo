@@ -12,8 +12,6 @@
 
 Sou um programador com experiência em desenvolvimento web que iniciou na área em 2012 (com PHP, javascript com Jquery, MySQl, CSS e HTML), o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as partes com que tenho mais interesse. 
 
-Para complementar as experiências que tive na cidade onde moro, passei a estudar de maneira autodidada, principalmente focado no paradigma da Orientação a Objetos em conceitos que gosto como interfaces e injeção de dependência.
-
 ***
 
 ## Resumo profissional
@@ -135,7 +133,6 @@ OBS: Comecei o bacharelado em sistemas de informação, mas não conclui.
 
 * Escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Se comunicar através da escrita.
-* Consigo me virar para ler artigos técnicos em inglês (não falo nessa língua).
 
 ### Alguns posts escritos
 
