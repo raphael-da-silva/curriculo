@@ -1,5 +1,6 @@
 
-**Github:** https://github.com/raphael-da-silva \
+# Perfis & blog
+
 **Blog dev:** http://raphael-da-silva.github.io \
 **Linkedin:** https://www.linkedin.com/in/raphael-da-silva2020/
 
