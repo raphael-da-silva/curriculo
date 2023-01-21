@@ -1,5 +1,10 @@
+# Apresentação
 
-# Perfis & blog
+Sou um programador com experiência em desenvolvimento web que iniciou na área em 2012 (com PHP, javascript com Jquery, MySQl, CSS e HTML), o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as partes com que tenho mais interesse. 
+
+***
+
+## Perfis & blog
 
 **Blog dev:** http://raphael-da-silva.github.io \
 **Linkedin:** https://www.linkedin.com/in/raphael-da-silva2020/
@@ -8,17 +13,11 @@
 
 ***
 
-## Apresentação
-
-Sou um programador com experiência em desenvolvimento web que iniciou na área em 2012 (com PHP, javascript com Jquery, MySQl, CSS e HTML), o meu foco é trabalhar com back-end e Orientação a Objetos, pois são as partes com que tenho mais interesse. 
-
-***
-
 ## Resumo profissional
 
 ### Área de atuação
 
-Trabalhei com desenvolvimento atuando em projetos de pequeno e médio porte usando PHP como linguagem de back-end.
+Trabalhei com desenvolvimento atuando em projetos de pequeno e médio porte.
 
 ### Trajetória resumida
 
