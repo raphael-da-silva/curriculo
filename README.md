@@ -17,7 +17,7 @@ Sou um programador com experiência em desenvolvimento web que iniciou na área 
 
 ### Área de atuação
 
-Trabalhei com desenvolvimento atuando em projetos de pequeno e médio porte.
+Trabalhei com desenvolvimento atuando em projetos de pequeno e médio porte (sites e sistemas).
 
 ### Trajetória resumida
 
